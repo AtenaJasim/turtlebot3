@@ -1,0 +1,19 @@
+[0.511s] Invoking command in '/home/csrobot/turtlebot3_ws/src/turtlebot3_navigation': PYTHONPATH=/home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/prefix_override:/home/csrobot/turtlebot3_ws/install/turtlebot3_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_navigation build --build-base /home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/build install --record /home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/install.log --single-version-externally-managed install_data
+[0.710s] running egg_info
+[0.710s] writing ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/PKG-INFO
+[0.710s] writing dependency_links to ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/dependency_links.txt
+[0.711s] writing entry points to ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/entry_points.txt
+[0.711s] writing requirements to ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/requires.txt
+[0.711s] writing top-level names to ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/top_level.txt
+[0.711s] reading manifest file '../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/SOURCES.txt'
+[0.712s] writing manifest file '../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info/SOURCES.txt'
+[0.713s] running build
+[0.713s] running install
+[0.713s] running install_data
+[0.713s] running install_egg_info
+[0.715s] removing '/home/csrobot/turtlebot3_ws/install/turtlebot3_navigation/lib/python3.10/site-packages/turtlebot3_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[0.715s] Copying ../../build/turtlebot3_navigation/turtlebot3_navigation.egg-info to /home/csrobot/turtlebot3_ws/install/turtlebot3_navigation/lib/python3.10/site-packages/turtlebot3_navigation-0.0.0-py3.10.egg-info
+[0.716s] running install_scripts
+[0.734s] Installing example_node script to /home/csrobot/turtlebot3_ws/install/turtlebot3_navigation/lib/turtlebot3_navigation
+[0.734s] writing list of installed files to '/home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/install.log'
+[0.751s] Invoked command in '/home/csrobot/turtlebot3_ws/src/turtlebot3_navigation' returned '0': PYTHONPATH=/home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/prefix_override:/home/csrobot/turtlebot3_ws/install/turtlebot3_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_navigation build --build-base /home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/build install --record /home/csrobot/turtlebot3_ws/build/turtlebot3_navigation/install.log --single-version-externally-managed install_data
